@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="./styles/styles.css">
+	<title>Fav Restaurants</title>
+</head>
+<div>
+		<h1 class="scroll-top">Jimmy's Fav Places to eat!</h1>
+	</div>
+<body>
+	 <div>
+	 	<ul>
+	 		<div>
+	 			<li>
+	 				<h1 class="red-robin">Red Robin</h1>
+	 				<img src="https://www.redrobin.com/content/dam/web/social/Deactivated-content-alt-not-updated/facebook-avatar-2.jpg" class="banner">
+	 				<p><a href="https://www.redrobin.com/">Red Robin</a> serves gourment burgers. They are the best!</p>
+	 			</li>
+	 		</div>
+	 		<div>
+	 			<li>
+	 			<h1 class="greenville">Greenville Ave Pizza</h1>
+	 			<img src="https://cdn.vox-cdn.com/thumbor/31SWMjBd2xIDjv10hK08k3FnDBY=/0x0:960x720/1200x800/filters:focal(0x0:960x720)/cdn.vox-cdn.com/uploads/chorus_image/image/49678535/GAPCo.0.0.jpg" class="banner">
+	 			<p><a href="https://gapc.co/">Greenville Ave Pizza</a> servers the best pizza in Dallas!</p>
+	 		</li>
+	 		</div>
+	 		<div>
+	 			<li>
+	 				<h1>Zenna</h1>
+	 				<img src="http://zennarestaurant.com/img/small-logo.png" class="banner">
+	 				<p><a href="http://zennarestaurant.com/">Zenna</a> has the best happy hour sushi in town! 3pm-7pm everyday!</p>
+	 			</li>
+	 		</div>
+	 		<div>
+	 			<li>
+	 				<h1 class="greenville">Milos</h1>
+	 				<img src="http://www.milobutterfingers.com/files/MILO_Bs_Logo201275.png" class="banner">
+	 				<p><a href="http://www.milobutterfingers.com/">Milos!</a> Have a beer, eat, and play pool!</p>
+	 			</li>
+	 		</div>
+	 		<div>
+	 			<li>
+	 				<h1 class="red-robin">Pie Five</h1>
+	 				<img src="https://www.piefivepizza.com/wp-content/themes/piefivepizza17/images/pie-five-pizza.png" class="banner">
+	 				<p><a href="https://www.piefivepizza.com/">Pie Five!</a> Personal pizzas for you!</p>
+	 			</li>
+	 		</div>
+	 	</ul>
+	 	<div>
+	 		<p>Feel free to contact me if you have any questions!</p>
+	 		<form>
+	  Name:<br>
+	  <input type="text" name="name"><br>
+	  Email:<br>
+	  <input type="text" name="email"><br>
+	  Comments:<br>
+	  <input type="text" name="comments"><br>
+	</form>
+	 	</div>
+	 </div>
+	</body>
+	</html>
