@@ -1,0 +1,107 @@
+body {
+	padding-top: 30px; 
+	margin: 0;
+	height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-family: 'Roboto Slab';font-size: 15px;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0px;
+    padding: 5px;
+    overflow: auto;
+    text-align: auto;
+}
+
+.navbar2 {
+	overflow: hidden;
+    background-color: #99AEC2;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%;
+    padding-top:5px; /* Full width */
+}
+
+.link {
+    float: left;
+}
+
+.center {
+	text-align: center;
+	z-index: 1;
+}
+
+.bigspace {
+	/*margin: 200px 150px 200px 150px;*/
+	width: 100%;
+	height: 400px;
+	padding-top: 50px;
+}
+
+.icon {
+	width: 70%;
+	height: auto;
+}
+
+.small_hr {
+	margin: 0px;
+	padding: 0px;
+	border: solid 1px;
+}
+
+#personal {
+	background-color: rgba(35, 50, 61, 0.7);
+}
+
+#professional {
+	background-color: rgba(146, 161, 175, 0.7);
+}
+
+#portfolio {
+	background-color: rgba(104, 125, 147, 0.7);
+}
+
+.container {
+	margin: auto;
+    width: 60%;
+}
+
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container2 {
+    border-radius: 5px;
+    background-color: rgba(242, 242, 242, 0.5);
+    padding: 20px;
+}
