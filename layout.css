@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-color: f
+}
+
+h1 {
+	font-size: 100px;
+}
+
+p {
+	font-size: 2em;
+}
+
+input {
+	width: 15%;
+	padding: 3px;
+	margin: 5px;
+}
+button {
+	margin-top: 20px;
+	font-size: 25px;
+}
